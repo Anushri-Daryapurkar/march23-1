@@ -3,5 +3,8 @@ class sum {
  
         System.out.print("In sum.java file");
 
+        System.out.print("In sum.java file");
+        System.out.print("In sum.java file");
+        System.out.print("In sum.java file");
     }
 }
